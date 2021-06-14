@@ -1,0 +1,17 @@
+.head{
+    font-size: 2rem;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 5px solid whitesmoke;
+}
+.links{
+    font-size: larger;
+    color: black;
+    margin: 25px;
+    padding: 10px;
+}
+.active_class{
+text-decoration: underline;
+background-color: yellow;
+}

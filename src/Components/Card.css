@@ -1,0 +1,19 @@
+.card {
+  width: 230px;
+  height: 300px;
+  background-color: white;
+  padding: 10px;
+  margin: 40px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+transform: translate3D(0,-1px,0) scale(1.05);
+}
+
+.img_style{
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
